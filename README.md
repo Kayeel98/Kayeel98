@@ -1,6 +1,6 @@
 - Hi, I’m @Kayeel98
 - I’m interested in Date related projects
-- I'm currently pursuing my Masters in data science in Monash University
+- I'm currently pursuing my Masters in Data Science in Monash University
 - I’m currently learning Python & Go
 - I’m looking to collaborate on future projects
 - You can find me at Discord! Kayeeel #8367
